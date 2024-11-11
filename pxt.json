@@ -1,0 +1,28 @@
+{
+    "name": "Rock Paper Scissors",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.6.32",
+        "tag": "v1.6.32",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/c7773bfa100a2b3145d9437e7e07ad8093faa274",
+        "target": "1.7.28",
+        "pxt": "8.1.13",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
